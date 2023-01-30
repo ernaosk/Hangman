@@ -28,10 +28,12 @@ flutter:
   uses-material-design: true
 
   assets:
-    - images/body 1.png
-    - images/hang 2.png
-    - images/head 3.png
-    - images/la 4.png
-    - images/ll 5.png
-    - images/ra 6.png
-    - images/rl 7.png
+    - images/image_victory.png
+    - images/image_0.png
+    - images/image_1.png
+    - images/image_2.png
+    - images/image_3.png
+    - images/image_4.png
+    - images/image_5.png
+    - images/image_6.png
+    - images/image_dead.png
